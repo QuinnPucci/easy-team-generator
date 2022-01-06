@@ -19,12 +19,15 @@
   Quickly and Efficiently generate an HTML page of all the members on a team.
   
   ## License
+  None.
   
   
   ## Contributors
   Quinn Pucci
   
   ## Tests
+  Demonstration Video: https://drive.google.com/file/d/1xytx0ugkTBxAeDUU6GwcisS-mRaRpV8G/view
+  
   Once the repositroy is cloned locally, open command line from the repositories root directory and type command: node index. follow the prompts and then open the html file in the dist directory 
   
   ## Questions
